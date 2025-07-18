@@ -21,7 +21,7 @@ This project analyzes HR data to uncover insights about employee attrition, dive
 3. Interact with the dashboard using the filters.
 
 ## Screenshot
-![Dashboard Screenshot](<img width="608" height="335" alt="Hr-Data-Analytics-dashboard" src="https://github.com/user-attachments/assets/77a7ef26-a447-4e1a-90a3-29e059219cba" />)
+![Dashboard Screenshot]  <img width="608" height="335" alt="Hr-Data-Analytics-dashboard" src="https://github.com/user-attachments/assets/77a7ef26-a447-4e1a-90a3-29e059219cba" />
 
 
 
